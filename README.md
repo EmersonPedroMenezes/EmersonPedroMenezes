@@ -1,10 +1,10 @@
 ### Olá 👋 eu sou o Emerson, um eterno aprendiz Pernambucano! Entusiasta de novas tecnologias e sempre bucando conhecimento.
 ##
 <div align="center"><br>
-  <img align="center" alt="Emerson-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
-  <img align="center" alt="Emerson-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Emerson-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Emerson-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
+  <img align="center" alt="Emerson-Python" height="30" width="75" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
+  <img align="center" alt="Emerson-Mysql" height="30" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Emerson-Git" height="30" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Emerson-Linux" height="30" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
 </div>
 
 ##
