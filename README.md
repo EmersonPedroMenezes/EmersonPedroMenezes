@@ -1,10 +1,11 @@
-### Olá 👋 eu sou o Emerson, um eterno aprendiz Pernambucano! Entusiasta de novas tecnologias e sempre bucando conhecimento.
+### Olá 👋 eu sou o Emerson, um eterno aprendiz Pernambucano! Entusiasta de novas tecnologias e sempre buscando conhecimento.
 ##
 <div align="center"><br>
   <img align="center" alt="Emerson-Python" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Emerson-Mysql" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Emerson-Git" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="Emerson-Linux" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
+  <img align="center" alt="Emerson-Linux" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
+  <img align="center" alt="Emerson-Arch" height="45" width="75" src="src="https://img.icons8.com/material-outlined/24/000000/arch-linux.png">
 </div>
 
 ##
