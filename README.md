@@ -5,7 +5,7 @@
   <img align="center" alt="Emerson-Mysql" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Emerson-NodeJS" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Emerson-React" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Emerson-JS" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Emerson-Java" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Emerson-Git" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Emerson-Linux" height="45" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
 </div>
@@ -20,7 +20,7 @@ class Emerson():
     self.username = "EmersonPedroMenezes"
     self.location = "Recife, Pernambuco"
     self.email = "emersonpedro.nmenezes@gmail.com"
-    self.hardskill = "Python, MySQL, NodeJS, React, Git, Linux"
+    self.hardskill = "Java, Python, MySQL, NodeJS, React, Git, Linux"
   
   def __str__(self):
     return self.name
