@@ -18,7 +18,7 @@ class Emerson():
     self.username = "EmersonPedroMenezes"
     self.location = "Recife, Pernambuco"
     self.email = "emersonpedro.nmenezes@gmail.com"
-    self.hardskill = "Java, Python, MySQL, NodeJS, React, Git, Linux"
+    self.hardskill = "Java, Python, MySQL, Git, Linux"
   
   def __str__(self):
     return self.name
