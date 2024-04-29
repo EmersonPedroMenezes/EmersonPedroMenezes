@@ -10,21 +10,21 @@
 
 ##
 
-```python
-class Emerson():
-    
-  def __init__(self):
-    self.name = "Emerson Pedro"
-    self.username = "EmersonPedroMenezes"
-    self.location = "Recife, Pernambuco"
-    self.email = "emersonpedro.nmenezes@gmail.com"
-    self.hardskill = "Java, Python, MySQL, Git, Linux"
-  
-  def __str__(self):
-    return self.name
+```c++
+class Emerson {
+public:
+    std::string name = "Emerson Pedro";
+    std::string username = "EmersonPedroMenezes";
+    std::string location = "Recife, Pernambuco";
+    std::string email = "emersonpedro.nmenezes@gmail.com";
+    std::string hardskill = "Java, Python, MySQL, SQL, C#, C++ Git, Linux";
+};
 
-if __name__ == '__main__':
-    me = Emerson()
+int main() {
+    Emerson me;
+    std::cout << me.name << std::endl;
+    return 0;
+}
 ```
 
 ##
