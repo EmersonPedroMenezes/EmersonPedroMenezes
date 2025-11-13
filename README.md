@@ -17,7 +17,7 @@ public:
     std::string username = "EmersonPedroMenezes";
     std::string location = "Recife, Pernambuco";
     std::string email = "emersonpedro.nmenezes@gmail.com";
-    std::string hardskill = "Java, Python, MySQL, SQL, C#, C++, Git, Linux";
+    std::string hardskill = "SQL, C#, C++, Git, Linux";
 };
 
 int main() {
